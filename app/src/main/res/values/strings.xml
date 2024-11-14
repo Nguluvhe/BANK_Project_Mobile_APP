@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">UFS BANK</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="student">Student Number</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="update_customer">Update Customer</string>
+    <string name="add_customer">Add Customer</string>
+    <string name="view_customers">View Customers</string>
+    <string name="welcome_admin">Welcome Admin</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="transfer">Transfer</string>
+    <string name="student_number">Student Number</string>
+    <string name="account_number">Account Number</string>
+    <string name="email">Email</string>
+    <string name="logout">Logout</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="city">City</string>
+    <string name="post_code">Postal Code</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="balance">Balance</string>
+    <string name="address">Address</string>
+</resources>
